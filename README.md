@@ -2,7 +2,7 @@
 # Install 
 ```sh
 git clone https://github.com/leb-kuchen/cosmic-ext-applet-apps-menu 
-cd apps-cosmic-ext-applet-apps-menu 
+cd cosmic-ext-applet-apps-menu 
 cargo b -r
 sudo just install
 ```
