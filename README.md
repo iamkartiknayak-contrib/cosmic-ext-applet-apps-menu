@@ -1,8 +1,8 @@
 
 # Install 
 ```sh
-git clone https://github.com/leb-kuchen/apps-menu-applet-for-cosmic
-cd apps-menu-applet-for-cosmic
+git clone https://github.com/leb-kuchen/cosmic-ext-applet-apps-menu 
+cd apps-cosmic-ext-applet-apps-menu 
 cargo b -r
 sudo just install
 ```
